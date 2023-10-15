@@ -1,0 +1,19 @@
+{
+  "name": "ak-photography",
+  "version": "1.0.0",
+  "description": "Photography Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijeetPitlewad/ak-photography.git"
+  },
+  "author": "Abhijeet Pitlewad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhijeetPitlewad/ak-photography/issues"
+  },
+  "homepage": "https://github.com/AbhijeetPitlewad/ak-photography#readme"
+}
